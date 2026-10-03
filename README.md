@@ -79,7 +79,7 @@ Continuar evoluindo como desenvolvedora, transformar conhecimento em projetos e 
 ## 📫 Onde me encontrar
 
 <p align="left">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/laila-maria/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/layllxdev">

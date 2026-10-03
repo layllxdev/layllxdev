@@ -1,100 +1,182 @@
-# 👋 Olá, eu sou Laila!
+<div align="center">
 
-### 💻 Desenvolvedora em formação | ADS @ IFPB
+# 👋 Olá, eu sou **Laila Maria**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia através de projetos acadêmicos, estudos e experiências práticas.
+### 💻 Desenvolvedora em formação • ADS @ IFPB
 
-Gosto de transformar o que aprendo em projetos e estou sempre buscando evoluir como desenvolvedora. 🚀
+**Construindo. Aprendendo. Evoluindo.** 🚀
 
----
+<p>
+  <a href="https://www.linkedin.com/in/laila-maria/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/layllxdev">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/llaylxx/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram">
+  </a>
+  <a href="mailto:layllxmaria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email">
+  </a>
+</p>
 
-## 🛠️ Tecnologias
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </div>
 
 ---
 
-## 📂 Projetos
+## 👩🏻‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB** e estou construindo minha trajetória na área de tecnologia através de projetos acadêmicos, estudos e experiências práticas.
+
+Tenho interesse em desenvolvimento de software e gosto de transformar os conteúdos que estudo em **projetos reais**, buscando evoluir continuamente minhas habilidades.
+
+---
+
+## ⚡ Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+### Web
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+
+### Ferramentas & Banco de Dados
+
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🐍 Algoritmos Python
 
-Exercícios e atividades desenvolvidos durante meus estudos de programação em Python, incluindo algoritmos, estruturas condicionais, cálculos e problemas do Beecrowd.
+Exercícios desenvolvidos durante meus estudos de programação em Python.
 
-→ [Ver projeto](https://github.com/layllxdev/algoritmos-python)
+**Conteúdos:**
+
+* Algoritmos
+* Condicionais
+* Cálculos
+* Conversões
+* Problemas do Beecrowd
+
+<a href="https://github.com/layllxdev/algoritmos-python">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ☕ Programação Orientada a Objetos
 
-Atividades e exercícios desenvolvidos em Java para praticar conceitos de Programação Orientada a Objetos, como classes, objetos, encapsulamento, herança, polimorfismo, interfaces e tratamento de exceções.
+Atividades e exercícios desenvolvidos em Java.
 
-→ [Ver projeto](https://github.com/layllxdev/POO)
+**Conteúdos:**
 
-### 🌐 Desenvolvimento de Aplicações Web
+* Classes e objetos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Interfaces
+* Exceções
 
-Atividades acadêmicas utilizando HTML, JavaScript e JSON, desenvolvendo páginas, formulários, tabelas e aplicações web.
+<a href="https://github.com/layllxdev/POO">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-→ [Ver projeto](https://github.com/layllxdev/daw1)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Desenvolvimento Web
+
+Atividades acadêmicas desenvolvidas com tecnologias web.
+
+**Tecnologias:**
+
+* HTML
+* JavaScript
+* JSON
+* Estruturação de páginas
+* Formulários
+* Tabelas
+
+<a href="https://github.com/layllxdev/daw1">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎮 Padrões de Projeto
 
-Repositório com atividades e projetos desenvolvidos durante os estudos de Padrões de Projeto, incluindo aplicações utilizando HTML, CSS e JavaScript.
+Projetos e atividades desenvolvidos durante os estudos de Padrões de Projeto.
 
-→ [Ver projeto](https://github.com/layllxdev/padroes-de-projeto)
+**Tecnologias:**
 
-### 🤝 SIAS
+* HTML
+* CSS
+* JavaScript
+* Organização de código
+* Projetos práticos
 
-Projeto desenvolvido em colaboração com outros estudantes, contribuindo para uma aplicação voltada à prática de desenvolvimento de software.
+<a href="https://github.com/layllxdev/padroes-de-projeto">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📚 Atualmente estudando
 
-* Java
-* Programação Orientada a Objetos
-* Estruturas de Dados
-* SQL
-* Desenvolvimento Web
-* Git e GitHub
-* Docker
-* Desenvolvimento de Jogos
-* Redes
-* Padrões de Projeto
+<div align="center">
+
+`Java` • `POO` • `Estruturas de Dados` • `SQL`
+`Desenvolvimento Web` • `Git & GitHub` • `Docker`
+`Desenvolvimento de Jogos` • `Redes` • `Padrões de Projeto`
+
+</div>
 
 ---
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedora, transformar conhecimento em projetos e conquistar novas oportunidades na área de tecnologia.
+> Transformar conhecimento em projetos, evoluir minhas habilidades e construir minha carreira na área de tecnologia.
 
 ---
 
-## 📫 Onde me encontrar
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/laila-maria/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/layllxdev">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/llaylxx/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:layllxmaria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+### 💻 Code. Learn. Build. Repeat.
 
----
+🚀
 
-<p align="center">
-  <i>Construindo, aprendendo e evoluindo um projeto de cada vez. 🚀</i>
-</p>
+</div>

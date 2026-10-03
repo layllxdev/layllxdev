@@ -39,21 +39,21 @@ Tenho interesse em desenvolvimento de software e gosto de transformar os conteú
 
 ### Linguagens
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
 ### Web
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
 
 ### Ferramentas & Banco de Dados
 
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 
 </div>
 
@@ -79,7 +79,7 @@ Exercícios desenvolvidos durante meus estudos de programação em Python.
 * Problemas do Beecrowd
 
 <a href="https://github.com/layllxdev/algoritmos-python">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
 </td>
@@ -100,7 +100,7 @@ Atividades e exercícios desenvolvidos em Java.
 * Exceções
 
 <a href="https://github.com/layllxdev/POO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
 </td>
@@ -125,7 +125,7 @@ Atividades acadêmicas desenvolvidas com tecnologias web.
 * Tabelas
 
 <a href="https://github.com/layllxdev/daw1">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
 </td>
@@ -145,7 +145,7 @@ Projetos e atividades desenvolvidos durante os estudos de Padrões de Projeto.
 * Projetos práticos
 
 <a href="https://github.com/layllxdev/padroes-de-projeto">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
 </td>
@@ -160,7 +160,9 @@ Projetos e atividades desenvolvidos durante os estudos de Padrões de Projeto.
 <div align="center">
 
 `Java` • `POO` • `Estruturas de Dados` • `SQL`
+
 `Desenvolvimento Web` • `Git & GitHub` • `Docker`
+
 `Desenvolvimento de Jogos` • `Redes` • `Padrões de Projeto`
 
 </div>
